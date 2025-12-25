@@ -1,16 +1,12 @@
-## Hi there 👋
+## ↗️Status do meu perfil
 
-<!--
-**mlima2412/mlima2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <div>
+   
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mlima2412&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mlima2412&theme=tokyonight)
+  </div>
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mlima2412&theme=tokyonight)
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
